@@ -1,0 +1,5 @@
+
+      # -*- Entry points: -*-
+      [paste.app_factory]
+      main = nocoast.wsgiapp:make_app
+      
